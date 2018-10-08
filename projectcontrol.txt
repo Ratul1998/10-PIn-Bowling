@@ -1,0 +1,4 @@
+int run=0;
+max--;
+graphics=low;
+texture smooth;
